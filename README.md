@@ -1,6 +1,6 @@
 # RSOD-Dataset
 
-It is a dataset for object detection in remote sensing images. The dataset includes aircraft, oiltank, playground and overpass.
+It is an open dataset for object detection in remote sensing images. The dataset includes aircraft, oiltank, playground and overpass.
 
 The format of this dataset that for PASCAL VOC.
 
